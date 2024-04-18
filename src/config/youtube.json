@@ -1,0 +1,78 @@
+[
+  {
+    "title": "Your Video Title Here",
+    "description": "Description of your video here...",
+    "channelId": "Your Channel ID Here",
+    "channelTitle": "Your Channel Title Here",
+    "videoId": "Na6LK1eNjyc",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/Na6LK1eNjyc/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/Na6LK1eNjyc/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/Na6LK1eNjyc/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "publishedAt": "Publication Date Here"
+  },
+  {
+    "title": "Your Video Title Here",
+    "description": "Description of your video here...",
+    "channelId": "Your Channel ID Here",
+    "channelTitle": "Your Channel Title Here",
+    "videoId": "MLN7sXazyDw",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/MLN7sXazyDw/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/MLN7sXazyDw/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/MLN7sXazyDw/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "publishedAt": "Publication Date Here"
+  },
+  {
+    "title": "Your Video Title Here",
+    "description": "Description of your video here...",
+    "channelId": "Your Channel ID Here",
+    "channelTitle": "Your Channel Title Here",
+    "videoId": "-GJFSmpZjCw",
+    "thumbnails": {
+      "default": {
+        "url": "https://i.ytimg.com/vi/-GJFSmpZjCw/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/-GJFSmpZjCw/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/-GJFSmpZjCw/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    },
+    "publishedAt": "Publication Date Here"
+  }
+
+]

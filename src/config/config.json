@@ -1,0 +1,26 @@
+{
+  "site": {
+    "title": "Bliss ",
+    "base_url": "/",
+    "base_path": "/",
+    "favicon": "/favicons/favicon.png",
+    "logoLight": "/logo.png",
+    "logoDark": "/logo.png",
+    "lang": "fr",
+    "description": "Explorez la beauté et la diversité de la nature à travers notre site, où vous découvrirez des articles captivants, des images inspirantes et des vidéos fascinantes sur la faune, la flore et les merveilles de notre planète.",
+    "pageSize": 6
+  },
+  "features": {
+    "youtube": true,
+    "dark_mode": true
+  },
+  "metadata": {
+    "meta_author": "Bliss",
+    "meta_description": "Explorez la beauté et la diversité de la nature à travers notre site, où vous découvrirez des articles captivants, des images inspirantes et des vidéos fascinantes sur la faune, la flore et les merveilles de notre planète."
+  },
+  "author": {
+    "name": "Bliss",
+    "avatar": "/coucou2.gif",
+    "bio": "Explorez la beauté et la diversité de la nature à travers notre site, où vous découvrirez des articles captivants, des images inspirantes et des vidéos fascinantes sur la faune, la flore et les merveilles de notre planète."
+  }
+}

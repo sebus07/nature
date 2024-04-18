@@ -1,0 +1,14 @@
+/* TEAM */
+	Chef: sebus
+	Contact: sebastien [at] sebus.dev
+	Twitter: 
+	From: france.
+
+/* THANKS */
+	Template: EV0 Theme
+
+/* SITE */
+	Last update: 2023/09/18
+	Language: france
+	Doctype: Astro
+	IDE: VSCode
